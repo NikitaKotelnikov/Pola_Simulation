@@ -24,13 +24,13 @@
     <ClInclude Include="source\stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="source\simulation.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="source\targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="source\tide.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="source\simulation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
